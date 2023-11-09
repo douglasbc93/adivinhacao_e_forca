@@ -11,3 +11,13 @@ framboesa
 maracuja
 tangerina
 graviola
+bergamota
+damasco
+groselha
+jamelao
+laranja
+mexerica
+nectarina
+pitanga
+seriguela
+tamarindo
